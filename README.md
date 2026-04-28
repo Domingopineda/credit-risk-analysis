@@ -22,7 +22,7 @@ Financial institutions need to evaluate borrower risk accurately to minimize loa
 -The higher interest rate is related to a greater probability of default, which says that high risk loans suggest a higher interest rate
 
 ## Dashboard
-
+https://public.tableau.com/views/creditriskanalysis_17773970548840/Dashboardcreditrisk?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ## Project Structure
 - `data/`: Raw dataset
